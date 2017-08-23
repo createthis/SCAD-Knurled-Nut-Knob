@@ -45,11 +45,11 @@
 knob_dia = 28;
 
 //Knob height
-knob_height = 20;
+knob_height = 24;
 
 /* [Hole Size] */
 //Hold diameter, for threaded bar
-hole_dia = 8;
+hole_dia = 9.5;
 
 /* [Cutback Around Nut] */
 //Diameter of cut out around the hex nut
@@ -60,7 +60,7 @@ cutback_depth = 1.3;
 
 /* [Metric ISO Nut Sizing] */
 //ISO Nut Size
-nut_radius = 8;
+nut_radius = 8.3;
 
 //Depth of the nut cavity
 nut_depth = 6;

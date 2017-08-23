@@ -1,6 +1,16 @@
+# Fork notes:
+
+This is the createthis fork, adapted to create knurled nut knobs for the
+[Blue Sea Systems Terminal Feed through Connector 2203 black (affiliate)](http://amzn.to/2vYfJHg) and
+[Blue Sea Systems Terminal Feed through Connector 2204 red (affiliate)](http://amzn.to/2v5C1Ys) 
+
+The rest of the README has been kept as-is, with minor changes to correct markdown syntax.
+
+# Original README
+
 Available on Thingiverse: [http://www.thingiverse.com/thing:439239](http://www.thingiverse.com/thing:439239)
 
-##Description
+## Description
 						
 I really liked the [1in Diameter Knurled Knob](http://www.thingiverse.com/thing:177400), but wanted something that could be customized on a per project basis.
 
@@ -10,14 +20,14 @@ The first use I had for this part was to add a knob to the outside hex nut on th
 
 This is my first OpenSCAD model, so if you have any tips on making this thing better please leave them in the Comments section.
 
-##Files
+## Files
 
 * **knurled_hex_cap.gcode**: The gcode I used to print a copy of this on my Ultimaker 2. This may, or may not, work on your printer as well. You can use Cura to load the settings from this file is you want to test them on your printer using your prefered slicing application. 
 * **knurled_nut_knob.scad**: This is the file that can be opened and customized using OpenSCAD. Just follow the Instructions below on what needs to be done.
 * **knurled_nut_knob.stl**: This is a STL file exported from the SCAD file provided using the default settings.
 * **knurledFinishLib.scad**: The Knurled Finish Library I used in making the outisde knurled texture on this design. The latest *.scad* file for this library can be found on Thingiverse ([http://www.thingiverse.com/thing:9095](http://www.thingiverse.com/thing:9095))
 
-##Instructions
+## Instructions
 
 * Download OpenSCAD (*[http://www.openscad.org](http://www.openscad.org)*)
 * Download the latest [knurledFinishLib.scad](http://www.thingiverse.com/thing:9095) as well as the **knurled_nut_knob.scad** file provided and place them in the same directory.
@@ -28,6 +38,6 @@ This is my first OpenSCAD model, so if you have any tips on making this thing be
 
 Now you have a STL file you can use with your particular setup.
 
-##Troubleshooting
+## Troubleshooting
 
 I you enter a parameter value that continually crashes OpenSCAD when opening the file (from auto rendering). The easiest way to fix this is to simply open the *.scad* file into a Text Editor like TextEdit on OSX, Notepad on Windows, or Vim on Linux/Unix and fix the last value you changed. Then try re-opening in OpenSCAD to see if it fixes your problem.
