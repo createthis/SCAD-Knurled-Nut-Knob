@@ -1,8 +1,8 @@
 # Fork notes:
 
 This is the createthis fork, adapted to create knurled nut knobs for the
-[Blue Sea Systems Terminal Feed through Connector 2203 black (affiliate)](http://amzn.to/2vYfJHg) and
-[Blue Sea Systems Terminal Feed through Connector 2204 red (affiliate)](http://amzn.to/2v5C1Ys) 
+* [Blue Sea Systems Terminal Feed through Connector 2203 black (affiliate)](http://amzn.to/2vYfJHg) and
+* [Blue Sea Systems Terminal Feed through Connector 2204 red (affiliate)](http://amzn.to/2v5C1Ys) 
 
 The rest of the README has been kept as-is, with minor changes to correct markdown syntax.
 
